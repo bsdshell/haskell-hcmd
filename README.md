@@ -1,1 +1,1 @@
-# Haskell command tool
+# haskell-hcmd
